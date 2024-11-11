@@ -1,8 +1,14 @@
 node_modules
+.idea
+
 /.cache
 /build
 /dist
 /public/build
 /.mf
+.DS_Store
+styles.module.css
 .env
+
+
 .shopify
